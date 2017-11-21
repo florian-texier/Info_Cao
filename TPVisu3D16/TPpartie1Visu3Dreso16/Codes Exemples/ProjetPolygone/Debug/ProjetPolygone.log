@@ -1,0 +1,13 @@
+﻿  polygone.c
+e:\imerir\2eme année\infographie cao\tpvisu3d16\tppartie1visu3dreso16\codes exemples\projetpolygone\polygone.c(54): warning C4113: 'GLvoid (__cdecl *)()' est différent de 'void (__cdecl *)(void)' dans les listes de paramètres
+polygone.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+glut32.lib(glut32.dll) : error LNK2026: module unsafe pour l'image SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe pour l'image SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe pour l'image SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe pour l'image SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe pour l'image SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe pour l'image SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe pour l'image SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe pour l'image SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe pour l'image SAFESEH.
+E:\IMERIR\2eme année\infographie CAO\TPVisu3D16\TPpartie1Visu3Dreso16\Codes Exemples\ProjetPolygone\Debug\ProjetPolygone.exe : fatal error LNK1281: Impossible de générer l'image SAFESEH.

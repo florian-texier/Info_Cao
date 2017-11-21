@@ -1,0 +1,4 @@
+﻿  polygone.c
+e:\imerir\2eme année\infographie cao\tp1\projetpolygone\projetpolygone\polygone.c(82): warning C4113: 'GLvoid (__cdecl *)()' est différent de 'void (__cdecl *)(void)' dans les listes de paramètres
+  ProjetPolygone.vcxproj -> E:\IMERIR\2eme année\infographie CAO\TP1\ProjetPolygone\Debug\ProjetPolygone.exe
+  ProjetPolygone.vcxproj -> E:\IMERIR\2eme année\infographie CAO\TP1\ProjetPolygone\Debug\ProjetPolygone.pdb (Partial PDB)

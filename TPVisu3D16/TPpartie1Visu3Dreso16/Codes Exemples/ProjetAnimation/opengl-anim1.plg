@@ -1,0 +1,134 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: opengl-anim1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP58.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/opengl-anim1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\ar\ICAR\Infographie2A\TP2A\opengl-anim1.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP58.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP59.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/opengl-anim1.pdb" /debug /machine:I386 /out:"Debug/opengl-anim1.exe" /pdbtype:sept 
+".\Debug\opengl-anim1.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP59.tmp"
+<h3>Output Window</h3>
+Compiling...
+opengl-anim1.c
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1152) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1152) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1152) : error C2146: syntax error : missing ',' before identifier 'glAccum'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1152) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1152) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1153) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1153) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1153) : error C2146: syntax error : missing ',' before identifier 'glAlphaFunc'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1153) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1153) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1154) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1154) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1154) : error C2146: syntax error : missing ',' before identifier 'glAreTexturesResident'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1154) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1154) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1155) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1155) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1155) : error C2146: syntax error : missing ',' before identifier 'glArrayElement'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1155) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1155) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1156) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1156) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1156) : error C2146: syntax error : missing ',' before identifier 'glBegin'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1156) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1156) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1157) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1157) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1157) : error C2146: syntax error : missing ',' before identifier 'glBindTexture'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1157) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1157) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1158) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1158) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1158) : error C2146: syntax error : missing ',' before identifier 'glBitmap'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1158) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1158) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1159) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1159) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1159) : error C2146: syntax error : missing ',' before identifier 'glBlendFunc'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1159) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1159) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1160) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1160) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1160) : error C2146: syntax error : missing ',' before identifier 'glCallList'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1160) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1160) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1161) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1161) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1161) : error C2146: syntax error : missing ',' before identifier 'glCallLists'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1161) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1161) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1162) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1162) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1162) : error C2146: syntax error : missing ',' before identifier 'glClear'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1162) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1162) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1163) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1163) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1163) : error C2146: syntax error : missing ',' before identifier 'glClearAccum'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1163) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1163) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1164) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1164) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1164) : error C2146: syntax error : missing ',' before identifier 'glClearColor'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1164) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1164) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1165) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1165) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1165) : error C2146: syntax error : missing ',' before identifier 'glClearDepth'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1165) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1165) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1166) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1166) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1166) : error C2146: syntax error : missing ',' before identifier 'glClearIndex'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1166) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1166) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1167) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1167) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1167) : error C2146: syntax error : missing ',' before identifier 'glClearStencil'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1167) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1167) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1168) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1168) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1168) : error C2146: syntax error : missing ',' before identifier 'glClipPlane'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1168) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1168) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1169) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1169) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1169) : error C2146: syntax error : missing ',' before identifier 'glColor3b'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1169) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1169) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1170) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1170) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1170) : error C2146: syntax error : missing ',' before identifier 'glColor3bv'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1170) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1170) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1171) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1171) : error C2085: 'APIENTRY' : not in formal parameter list
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1171) : error C2146: syntax error : missing ',' before identifier 'glColor3d'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1171) : error C2143: syntax error : missing ';' before '('
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1171) : error C2059: syntax error : ')'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1172) : error C2054: expected '(' to follow 'WINGDIAPI'
+c:\program files\microsoft visual studio\vc98\include\gl\gl.h(1172) : fatal error C1003: error count exceeds 100; stopping compilation
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+opengl-anim1.exe - 102 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
